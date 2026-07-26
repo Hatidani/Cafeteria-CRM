@@ -75,3 +75,9 @@ Before running this application, ensure you have:
 1. **Java Development Kit (JDK) 8 or higher**
    ```bash
    java -version
+
+2. **MySQL Server 8.0 or higher**
+   ```bash
+   mysql -version
+
+3. **MySQL Connector/J (Download from MySQL Connector/J Download)**
