@@ -11,7 +11,7 @@
 - [Technologies Used](#-technologies-used)
 - [Installation](#-installation)
 - [Demo Accounts](#demo-accounts)
-- [Screenshots](#screenshots)
+- [Screenshots](#sample-screenshots)
 
 ## 📖 Overview
 
