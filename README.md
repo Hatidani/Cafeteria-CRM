@@ -6,14 +6,14 @@
 [![Status](https://img.shields.io/badge/Status-Development-brightgreen.svg)]()
 
 ## 📋 Table of Contents
-- [Overview](#-overview)
-- [Features](#-features)
-- [Technologies Used](#-technologies-used)
-- [Installation](#-installation)
+- [Overview](#overview)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
 - [Demo Accounts](#demo-accounts)
 - [Screenshots](#sample-screenshots)
 
-## 📖 Overview
+## Overview
 
 The **NWU Cafeteria Satisfaction Monitor** is a Customer Relationship Management (CRM) system designed to enhance the dining experience at North-West University's Mahikeng Campus. The application creates a direct communication channel between customers and cafeteria staff, enabling:
 
@@ -23,7 +23,7 @@ The **NWU Cafeteria Satisfaction Monitor** is a Customer Relationship Management
 - 👨‍🍳 **Menu Management**: Add, update, or remove menu items
 - 🔒 **Secure Authentication**: Role-based access for customers and employees
 
-## ✨ Features
+## Features
 
 ### For Customers
 - 🔐 **Secure Registration & Login**
@@ -42,7 +42,7 @@ The **NWU Cafeteria Satisfaction Monitor** is a Customer Relationship Management
 - 👥 **Manage Loyalty Program**
 - 📅 **Track Popular Items & Trends**
 
-## 🛠 Technologies Used
+## Technologies Used
 
 ### Frontend
 - **Java Swing** - GUI Framework
@@ -60,7 +60,7 @@ The **NWU Cafeteria Satisfaction Monitor** is a Customer Relationship Management
 - **GitHub** - Code Repository
 - **VS Code / Eclipse / IntelliJ** - IDE Support
 
-## 📦 Installation
+## Installation
 
 ### Prerequisites
 
