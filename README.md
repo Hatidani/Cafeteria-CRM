@@ -86,34 +86,10 @@ Before running this application, ensure you have:
 ### Steps: 
 1: Clone the Repository
 
-2.Project Structure
-nwu-cafeteria-monitor/
-│
-├── src/
-│   └── main/
-│       └── java/
-│           └── com/
-│               └── nwu/
-│                   └── cafeteria/
-│                       ├── NWUCafeteriaApp.java
-│                       ├── LoginScreen.java
-│                       ├── RegistrationScreen.java
-│                       ├── CustomerHomeScreen.java
-│                       ├── MenuScreen.java
-│                       ├── ReviewScreen.java
-│                       ├── CustomerProfileScreen.java
-│                       ├── EmployeeDashboard.java
-│                       ├── ReviewAnalysisScreen.java
-│                       └── DatabaseConnection.java
-│
-│ ── database-setup.sql
-│
-└── README.md
-
-3. Add MySQL Connector
+2. Add MySQL Connector
 Download mysql-connector-j-8.0.33.jar and place it in the lib/ folder
 
-4. Using VS Code
+3. Using VS Code
 Install the MySQL extension by cweijan
 Connect to your MySQL server
 Open scripts/database-setup.sql
