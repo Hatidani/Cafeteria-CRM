@@ -106,11 +106,7 @@ nwu-cafeteria-monitor/
 │                       ├── ReviewAnalysisScreen.java
 │                       └── DatabaseConnection.java
 │
-├── lib/
-│   └── mysql-connector-j-8.0.33.jar
-│
-├── scripts/
-│   └── database-setup.sql
+│ ── database-setup.sql
 │
 └── README.md
 
@@ -122,3 +118,12 @@ Install the MySQL extension by cweijan
 Connect to your MySQL server
 Open scripts/database-setup.sql
 Execute the SQL script
+
+## Demo Accounts
+Email: admin@nwu.ac.za
+Password: admin123
+Role: Administrator
+
+Email: employee@nwu.ac.za
+Password: employee123
+Role: Cafeteria Employee
