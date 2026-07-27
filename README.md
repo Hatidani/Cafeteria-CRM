@@ -11,13 +11,8 @@
 - [Features](#-features)
 - [Technologies Used](#-technologies-used)
 - [Installation](#-installation)
-- [Database Setup](#-database-setup)
-- [Running the Application](#-running-the-application)
-- [Demo Accounts](#-demo-accounts)
-- [Screenshots](#-screenshots)
-- [Project Structure](#-project-structure)
-- [Contributors](#-contributors)
-- [License](#-license)
+- [Demo Accounts](#demo-accounts)
+- [Screenshots](#screenshots)
 
 ## 📖 Overview
 
@@ -77,7 +72,31 @@ Before running this application, ensure you have:
    java -version
 
 2. **MySQL Server 8.0 or higher**
+
    ```bash
    mysql -version
 
 3. **MySQL Connector/J (Download from MySQL Connector/J Download)**
+
+### Steps: 
+1: Clone the Repository
+
+2. Add MySQL Connector
+Download mysql-connector-j-8.0.33.jar and place it in the lib/ folder
+
+3. Using VS Code
+Install the MySQL extension by cweijan
+Connect to your MySQL server
+Open scripts/database-setup.sql
+Execute the SQL script
+
+## Demo Accounts
+Email: admin@nwu.ac.za
+Password: admin123
+Role: Administrator
+
+Email: employee@nwu.ac.za
+Password: employee123
+Role: Cafeteria Employee
+
+## Screenshots
