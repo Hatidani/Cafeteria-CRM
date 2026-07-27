@@ -98,4 +98,12 @@ Email: employee@nwu.ac.za
 Password: employee123
 Role: Cafeteria Employee
 
-## Screenshots
+## Sample Screenshots
+![Login page](https://github.com/Hatidani/Cafeteria-CRM/blob/64606cdc427594eec5ac079cb7d6f5e658fe7bdf/Screenshots/login.png)
+
+![Registration](https://github.com/Hatidani/Cafeteria-CRM/blob/64606cdc427594eec5ac079cb7d6f5e658fe7bdf/Screenshots/Registration.png)
+)
+
+![Customer Home](https://github.com/Hatidani/Cafeteria-CRM/blob/64606cdc427594eec5ac079cb7d6f5e658fe7bdf/Screenshots/customerdashboard_home.png)
+
+![Employee Home](https://github.com/Hatidani/Cafeteria-CRM/blob/64606cdc427594eec5ac079cb7d6f5e658fe7bdf/Screenshots/employeedashboard_home.png)
