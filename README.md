@@ -11,13 +11,8 @@
 - [Features](#-features)
 - [Technologies Used](#-technologies-used)
 - [Installation](#-installation)
-- [Database Setup](#-database-setup)
-- [Running the Application](#-running-the-application)
-- [Demo Accounts](#-demo-accounts)
-- [Screenshots](#-screenshots)
-- [Project Structure](#-project-structure)
-- [Contributors](#-contributors)
-- [License](#-license)
+- [Demo Accounts](#demo-accounts)
+- [Screenshots](#screenshots)
 
 ## 📖 Overview
 
@@ -103,3 +98,5 @@ Role: Administrator
 Email: employee@nwu.ac.za
 Password: employee123
 Role: Cafeteria Employee
+
+## Screenshots
